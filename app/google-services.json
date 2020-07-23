@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936264678482",
+    "firebase_url": "https://covid-fact.firebaseio.com",
+    "project_id": "covid-fact",
+    "storage_bucket": "covid-fact.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936264678482:android:25e6e2359a7d2b947e338b",
+        "android_client_info": {
+          "package_name": "com.example.covidfact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936264678482-efhguuku4sdlrhbbpv3m73eqe04n3f4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtGsEGrf2XA4d9o_uXHBBvekF73bjtH-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936264678482-efhguuku4sdlrhbbpv3m73eqe04n3f4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
